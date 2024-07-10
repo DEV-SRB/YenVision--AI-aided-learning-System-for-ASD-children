@@ -52,7 +52,8 @@ To get started with YenVision, follow these steps:
 To start the application, use the following command:
 
 ```sh
-python app.py
+model3 finalcode.py
+model2 
 ```
 
 ## Contributing
